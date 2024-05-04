@@ -1,4 +1,3 @@
-(https://paperswithcode.com/sota/machine-translation-on-alexa-point-of-view?p=converting-the-point-of-view-of-messages)
 
 ## Navigating Conversation with Voice Assistants
 
